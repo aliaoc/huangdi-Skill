@@ -1,0 +1,3 @@
+display_name: 皇帝skill
+short_description: 三省六部式多Agent协作调度
+default_prompt: 用皇帝skill组织多Agent和多Skill协作完成这个任务。
